@@ -11,11 +11,7 @@ echo - Useful for displaying text in batch files.
 
 exit - Closes the CMD window.
 
-#Check -
-. Most Useful CMD Commands in Windows
-. Useful CMD Commands for Daily Use in Windows OS
-. Command Prompt Hacks for Windows
-
+<br><br>
 *File and Directory Operations
 ~Command - Description
 
@@ -27,7 +23,7 @@ del - Deletes specified files.
 
 mkdir - Creates a new directory.
 
-rmdir - Deletes a directory.
+rmdir - Deletes a directory. <br><br>
 
 *System Information Commands
 ~Commands - Description
@@ -39,8 +35,7 @@ hostname - Shows the computer’s name on the network.
 tasklist - Lists all active processes.
 
 taskkill - Ends a specified process.
-
-#Check - CMD Commands to Gather Information of a System
+<br><br>
 
 *Network Configuration Commands
 ~Commands - Description
@@ -51,7 +46,7 @@ ping - Sends packets to a specified IP address to test connectivity.
 
 tracert - Traces the path packets take to reach a host.
 
-netstat - Provides network connection statistics and listening ports.
+netstat - Provides network connection statistics and listening ports.<br><br>
 
 *Disk Management Commands
 ~Commands - Description
@@ -63,7 +58,7 @@ chkdsk - Scans and repairs disk errors.
 format - prepares a disk for use by erasing its contents and setting up a file system.
 
 diskcomp - Compares the contents of two floppy disks.
-
+<br><br>
 *Security and Access Commands
 ~Commands - Description
 
